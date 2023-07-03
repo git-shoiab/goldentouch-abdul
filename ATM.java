@@ -1,5 +1,5 @@
 package testpack;
-
+//good program keep itup
 public class ATM {
 	public void withDrawMoney(int amt)
 				throws BalanceException {
